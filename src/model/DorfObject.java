@@ -48,8 +48,4 @@ public class DorfObject implements ImageObject{
     public String getName() {
         return name;
     }
-
-    public void move() {
-
-    }
 }
